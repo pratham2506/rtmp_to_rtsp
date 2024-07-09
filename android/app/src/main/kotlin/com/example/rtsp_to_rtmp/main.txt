@@ -1,0 +1,1 @@
+val cmd = "-fflags nobuffer -flags low_delay -strict experimental -i rtsp://192.168.144.123:554 -c:v copy -b:v 3000k -c:a aac -b:a 128k -bufsize 10k -use_wallclock_as_timestamps 1 -f flv rtmp://131b62225f9b.global-contribute.live-video.net/app/sk_ap-south-1_qH37GBPgWHln_IBiU6O79SSj6j4My4AsrrinbvpaDxi"
